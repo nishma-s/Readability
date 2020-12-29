@@ -5,5 +5,4 @@ This program approximates the appropriate grade level needed to comprehend a tex
 
 index = 0.0588 * L - 0.296 * S - 15.8
 
-*L is the average number of letters per 100 words
-S is the average number od sentences per 100 words*
+*L is the average number of letters per 100 words, S is the average number od sentences per 100 words*
